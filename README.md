@@ -2,13 +2,13 @@
 Buat Database
 
 ## Buat database
-   ✅ Buka phpmyadmin
-   ✅ Buat database
-   ✅ BUat Tabel berita
-   ✅ Buat Tabel Kategori
-   ✅ Buat Tabel Author
-       ✅ Admin
-       ✅ User
-    ✅ Expor database
-    ✅ Import database
-   
+    ✅ Buka phpmyadmin
+    ✅ Buat database
+    ✅ BUat Tabel berita
+    ✅ Buat Tabel Kategori
+    ✅ Buat Tabel Author
+        ✅ Admin
+        ✅ User
+        ✅ Expor database
+        ✅ Import database
+    
